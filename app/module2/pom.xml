@@ -13,9 +13,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.example.my-app</groupId>
-            <artifactId>module1</artifactId>
-            <version>${project.version}</version>
+            <groupId>com.example</groupId>
+            <artifactId>my-lib</artifactId>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
